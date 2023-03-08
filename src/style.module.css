@@ -1,0 +1,13 @@
+.form{
+    display: grid;
+    background-color: grey;
+    padding: 20px;
+    width: 750px;
+    height: 300px;
+}
+.button{
+    border-radius: 10px;
+    height: 80px;
+    background-color: black;
+    align-items: center;
+}
